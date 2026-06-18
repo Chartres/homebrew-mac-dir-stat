@@ -1,6 +1,6 @@
 cask "mac-dir-stat" do
-  version "0.5.0"
-  sha256 "37a239cf9ff13a105973216f56fc38f2bbbde8c6ff081fa322cae3f360f25162"
+  version "0.5.1"
+  sha256 "1f7be0874f3ba8ea4023dfd3fe08fab85b19c0d56eb74e76ed41e61be89b6aaf"
 
   url "https://github.com/Chartres/mac-dir-stat/releases/download/v#{version}/MacDirStat-#{version}.dmg"
   name "MacDirStat"
